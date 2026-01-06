@@ -94,28 +94,6 @@ Cyber Security SOC Analyst 🔐 | AI Engineer 🤖 | Software Developer 💻
 <div align="center">
 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=engabdo3laa-cyber&style=flat&color=red&label=PROFILE+VIEWS)
-![HITS](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/engabdo3laa-cyber&count_bg=%2300FFCC&title_bg=%23111111&icon=github.svg&icon_color=%23FFFFFF&title=HITS)
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/engabdo3laa-cyber">
-
-<img src="https://raw.githubusercontent.com/engabdo3laa-cyber/profile-summary-cards/master/profile-summary-card-output/github_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/engabdo3laa-cyber/profile-summary-cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/engabdo3laa-cyber/profile-summary-cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-<summary>More stats</summary>
-
-<img src="https://raw.githubusercontent.com/engabdo3laa-cyber/profile-summary-cards/master/profile-summary-card-output/github_dark/0-profile-details.svg">
-
-</details>
 
 </div>
 
